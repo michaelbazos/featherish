@@ -1,0 +1,19 @@
+# compiled
+/build
+/dist
+/tmp
+
+# editors
+/.idea
+/.vscode
+
+# dependencies
+/node_modules
+
+# miscellaneous
+npm-debug.log
+/.sass-cache
+
+# operating systems
+.DS_Store
+Thumbs.db

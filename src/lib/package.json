@@ -1,0 +1,26 @@
+{
+  "name": "featherish",
+  "version": "__VERSION__",
+  "description": "Feather Icons Web Components for all your Web Applications",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelbazos/featherish"
+  },
+  "author": {
+    "name": "Michael Bazos",
+    "email": "micabazos@gmail.com"
+  },
+  "keywords": [
+    "feather",
+    "icons",
+    "svg",
+    "ui",
+    "webcomponents",
+    "library"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelbazos/featherish/issues"
+  },
+  "main": "index.js"
+}
