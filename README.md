@@ -9,10 +9,22 @@
 
 Web components vectorial icons for modern web applications. Design of the icons by [Cole Bemis](https://github.com/colebemis/).
 
-### Demo
+### Demos
 <h4>
   <a href="https://stackblitz.com/edit/featherish?file=index.html">
-    >> See live demo <<
+    Bare ES6
+  </a>
+</h4>
+
+<h4>
+  <a href="https://stackblitz.com/edit/angular-featherish?file=app%2Fapp.module.ts">
+    In an Angular project
+  </a>
+</h4>
+
+<h4>
+  <a href="https://stackblitz.com/edit/react-featherish?file=index.js">
+    In a React project
   </a>
 </h4>
 
