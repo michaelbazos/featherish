@@ -10,29 +10,11 @@
 Framework-agnostic Web Components vector icons for modern web applications. Design of the icons by [Cole Bemis](https://github.com/colebemis/).
 
 ### Demos
-<h4>
-  <a href="https://stackblitz.com/edit/featherish?file=index.html">
-    Bare ES6
-  </a>
-</h4>
 
-<h4>
-  <a href="https://stackblitz.com/edit/angular-featherish?file=app%2Fapp.module.ts">
-    Angular project
-  </a>
-</h4>
+|    |    |    |    |
+| -- | -- | -- | -- |
+| **[No Framework](https://stackblitz.com/edit/featherish?file=index.html)** | **[Angular](https://stackblitz.com/edit/angular-featherish?file=app%2Fapp.module.ts)** | **[React](https://stackblitz.com/edit/react-featherish?file=index.js)** | **[Vue](https://stackblitz.com/edit/vue-featherish?file=index.js)** |
 
-<h4>
-  <a href="https://stackblitz.com/edit/react-featherish?file=index.js">
-    React project
-  </a>
-</h4>
-
-<h4>
-  <a href="https://stackblitz.com/edit/vue-featherish?file=index.js">
-    Vue project
-  </a>
-</h4>
 
 ### Usage
 
