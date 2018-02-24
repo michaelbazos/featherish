@@ -11,9 +11,9 @@ Framework-agnostic Web Components vector icons for modern web applications. Desi
 
 ### Demos
 
-|    |    |    |    |
+| No framework | Angular | React | Vue |
 | -- | -- | -- | -- |
-| **[No Framework](https://stackblitz.com/edit/featherish?file=index.html)** | **[Angular](https://stackblitz.com/edit/angular-featherish?file=app%2Fapp.module.ts)** | **[React](https://stackblitz.com/edit/react-featherish?file=index.js)** | **[Vue](https://stackblitz.com/edit/vue-featherish?file=index.js)** |
+| **[Demo](https://stackblitz.com/edit/featherish?file=index.html)** | **[Demo](https://stackblitz.com/edit/angular-featherish?file=app%2Fapp.module.ts)** | **[Demo](https://stackblitz.com/edit/react-featherish?file=index.js)** | **[Demo](https://stackblitz.com/edit/vue-featherish?file=index.js)** |
 
 
 ### Usage
